@@ -1,0 +1,1 @@
+A beginner-friendly data analysis project using Python, SQL, Jupyter Notebook, and MySQL Workbench to explore and analyze an e-commerce dataset. The project includes data cleaning, SQL queries, exploratory data analysis (EDA), and insights derived from customer, order, and sales data.
